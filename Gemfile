@@ -55,3 +55,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # added rubygems
 gem 'bootstrap', '~> 4.0.0'
+gem 'webpacker', '~> 3.2'
+gem 'react-rails'
